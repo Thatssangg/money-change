@@ -1,7 +1,7 @@
 {
   "name": "change-money",
   "type": "module",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A simple library",
   "main": "src/formatCurrency.js",
   "scripts": {
@@ -27,6 +27,8 @@
   "dependencies": {
     "lodash": "^4.17.21",
      "tea-convert": "^1.1.0",
-     "money-convert": "^1.0.9"
+     "money-convert": "^1.0.9",
+    "money-ruppe": "^1.0.6",
+        "converter-money-indonesia": "^1.0.6"
   }
 }
